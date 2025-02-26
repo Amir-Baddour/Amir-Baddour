@@ -1,4 +1,5 @@
-<img src="git_wallpaper.jpeg" alt="GitHub Banner" width="100%" />
+<img src="images/git_wallpaper.jpeg" alt="GitHub Banner" width="100%" />
+
 
 <h1>Hi 👋, I'm </h1>
 <p>A passionate Full Stack Software Engineer </p>
